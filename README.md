@@ -1,16 +1,10 @@
-# proje_1
+# Evcil Hayvan Bakım Rehberi
 
-A new Flutter project.
+Flutter dili kullanılarak yazılan bu uygulamada evde hayvan bakanların ihtiyacı olan temel bilgilere yer verilmiştir.Ayrıca kullanıcıyı isteğine göre en yakın veteriner ve 
+en yakın parka yönlendiren konum hizmetleri de bulunmaktadır.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Uygulama Resimleri
+<img src=assets/images/uygres/0.png width=50%>
+<img src=assets/images/uygres/1.png width=50%>
+<img src=assets/images/uygres/2.png width=50%>
+<img src=assets/images/uygres/4.png width=50%>
